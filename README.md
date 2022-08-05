@@ -1,7 +1,7 @@
 ## Hi! I'm Gustavo Silva 🤙
 <div>
 <p>
-I am 22 years old, I am studying every day, including holidays and weekends. I can't wait to get my first job in programming. <br/> Welcome to my github! :)</p>
+I am 22 years old, I entered the world of programming and I loved it! Since then I have studied almost every day. <br/> Welcome to my github! :)</p>
 </div>
 
 <br/>
