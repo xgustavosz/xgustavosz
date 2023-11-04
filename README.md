@@ -17,9 +17,9 @@ Hello, my name is Gustavo, I'm a software developer, I'm studying analysis and s
 
 <br/>
 
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=xgusstavo&show_icons=true&theme=dark)
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=xgustavosz&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xgusstavo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xgustavosz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Technologies
