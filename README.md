@@ -1,7 +1,7 @@
 ## Hi! I'm Gustavo Silva 🤙
 <div>
 <p>
-Web Developer with 2 years of experience in the industry.<br/>
+Web Developer with 3 years of experience in the industry.<br/>
 I have experience with the following technologies:<br/>
 React, Next.js, JavaScript, TypeScript, Git/Github, GraphQL, TailwindCSS, Atomic Design, among others.
 <br/>
